@@ -10,6 +10,8 @@ In line `00401190`, the first character of the input is moved to `dl` and it is 
 
 In line `0040119A`, the second character of the input is moved to `dl` and it is compared to the second character on `0040119D`.
 
+![image](https://github.com/user-attachments/assets/f823898f-34a8-4860-a2c1-42c71519a9ba)
+
 In line `0040116A`, we see that there is a string formatting of `%s-%d%d%d`.
 
 ![image](https://github.com/user-attachments/assets/1f4fb86f-5b6c-42b2-9070-a8a3653e7498)
